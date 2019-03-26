@@ -25,4 +25,4 @@ Invoice processing using RPA The other automationcan also automatically backup d
 
 
 ## Project Status:
- project is completed(100%)
+ project is completed - 90%
